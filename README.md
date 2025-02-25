@@ -1,4 +1,10 @@
 # 智慧船舶
+## 演示
+
+
+https://github.com/user-attachments/assets/5e73df21-a090-4c2e-a7db-46dac798f09a
+
+
 ## 编译
 不要改动 `CMakeLists.txt`，windows 平台下编译指令如下：
 ```
